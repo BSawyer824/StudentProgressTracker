@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudentProgressTracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_terms">Terms</string>
+    <string name="title_activity_courses">Courses</string>
+    <string name="title_activity_assessments">Assessments</string>
+</resources>

@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.wgu_android.studentprogresstracker.MainActivity">
+    <group android:checkableBehavior="single"/>
+    <item
+        android:id="@+id/action_terms"
+        android:orderInCategory="100"
+        android:title="Terms"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_courses"
+        android:orderInCategory="100"
+        android:title="Courses"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_assessments"
+        android:orderInCategory="100"
+        android:title="Assessments"
+        app:showAsAction="never" />
+
+</menu>
